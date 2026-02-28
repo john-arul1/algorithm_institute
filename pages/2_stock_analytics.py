@@ -34,7 +34,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Import the components
-from core.components import portfolio_allocator, alert_system, performance_tracker
+from components.components import portfolio_allocator, alert_system, performance_tracker
 
 # ... (keep all the existing TradingPlatform class and functions)
 
